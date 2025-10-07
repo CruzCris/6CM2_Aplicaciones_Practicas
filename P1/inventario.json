@@ -1,0 +1,202 @@
+{
+    "101": {
+        "nombre": "Cafe Tostado Supremo",
+        "marca": "Aroma Del Mar",
+        "tipo": "Alimentos",
+        "precio": 12.5,
+        "stock": 50,
+        "id": "101"
+    },
+    "102": {
+        "nombre": "Te Earl Grey Clasico",
+        "marca": "Hojas Puras",
+        "tipo": "Alimentos",
+        "precio": 8.0,
+        "stock": 120,
+        "id": "102"
+    },
+    "103": {
+        "nombre": "Chocolate Amargo 70%",
+        "marca": "Cacao Real",
+        "tipo": "Alimentos",
+        "precio": 25.99,
+        "stock": 23,
+        "id": "103"
+    },
+    "104": {
+        "nombre": "Taza de Ceramica",
+        "marca": "Artesanal",
+        "tipo": "Utensilios",
+        "precio": 15.0,
+        "stock": 45,
+        "id": "104"
+    },
+    "105": {
+        "nombre": "Cafe Descafeinado",
+        "marca": "Aroma Del Mar",
+        "tipo": "Alimentos",
+        "precio": 10.5,
+        "stock": 60,
+        "id": "105"
+    },
+    "106": {
+        "nombre": "Cuchara de Madera",
+        "marca": "EcoUtensilios",
+        "tipo": "Utensilios",
+        "precio": 6.5,
+        "stock": 80,
+        "id": "106"
+    },
+    "107": {
+        "nombre": "Filtro de Cafe Reutilizable",
+        "marca": "GreenBrew",
+        "tipo": "Utensilios",
+        "precio": 9.99,
+        "stock": 40,
+        "id": "107"
+    },
+    "108": {
+        "nombre": "Termo Acero Inoxidable",
+        "marca": "ThermoPlus",
+        "tipo": "Utensilios",
+        "precio": 22.0,
+        "stock": 35,
+        "id": "108"
+    },
+    "109": {
+        "nombre": "Molino Manual de Cafe",
+        "marca": "GranoFino",
+        "tipo": "Utensilios",
+        "precio": 30.0,
+        "stock": 20,
+        "id": "109"
+    },
+    "110": {
+        "nombre": "Plato de Porcelana",
+        "marca": "Artesanal",
+        "tipo": "Utensilios",
+        "precio": 18.0,
+        "stock": 50,
+        "id": "110"
+    },
+    "111": {
+        "nombre": "Jabon Liquido Lavanda",
+        "marca": "Pureza Natural",
+        "tipo": "Limpieza",
+        "precio": 13.5,
+        "stock": 60,
+        "id": "111"
+    },
+    "112": {
+        "nombre": "Detergente Biodegradable",
+        "marca": "EcoClean",
+        "tipo": "Limpieza",
+        "precio": 19.99,
+        "stock": 40,
+        "id": "112"
+    },
+    "113": {
+        "nombre": "Desinfectante Multiusos",
+        "marca": "Sanitex",
+        "tipo": "Limpieza",
+        "precio": 15.0,
+        "stock": 55,
+        "id": "113"
+    },
+    "114": {
+        "nombre": "Toallas de Papel",
+        "marca": "CleanSoft",
+        "tipo": "Limpieza",
+        "precio": 7.5,
+        "stock": 100,
+        "id": "114"
+    },
+    "115": {
+        "nombre": "Limpiador de Superficies",
+        "marca": "BrilloMax",
+        "tipo": "Limpieza",
+        "precio": 12.0,
+        "stock": 70,
+        "id": "115"
+    },
+    "116": {
+        "nombre": "Cuaderno de Notas",
+        "marca": "EscribeBien",
+        "tipo": "Papeleria",
+        "precio": 5.0,
+        "stock": 90,
+        "id": "116"
+    },
+    "117": {
+        "nombre": "Boligrafo Azul",
+        "marca": "PlumaPlus",
+        "tipo": "Papeleria",
+        "precio": 2.5,
+        "stock": 200,
+        "id": "117"
+    },
+    "118": {
+        "nombre": "Marcador Permanente",
+        "marca": "ColorMark",
+        "tipo": "Papeleria",
+        "precio": 3.0,
+        "stock": 150,
+        "id": "118"
+    },
+    "119": {
+        "nombre": "Carpeta Plastica",
+        "marca": "Organiza",
+        "tipo": "Papeleria",
+        "precio": 4.0,
+        "stock": 80,
+        "id": "119"
+    },
+    "120": {
+        "nombre": "Resaltador Amarillo",
+        "marca": "ColorMark",
+        "tipo": "Papeleria",
+        "precio": 2.8,
+        "stock": 120,
+        "id": "120"
+    },
+    "121": {
+        "nombre": "Shampoo Herbal",
+        "marca": "NaturalCare",
+        "tipo": "Cuidado Personal",
+        "precio": 16.0,
+        "stock": 60,
+        "id": "121"
+    },
+    "122": {
+        "nombre": "Crema Corporal",
+        "marca": "PureSkin",
+        "tipo": "Cuidado Personal",
+        "precio": 20.0,
+        "stock": 45,
+        "id": "122"
+    },
+    "123": {
+        "nombre": "Cepillo de Dientes",
+        "marca": "SmilePro",
+        "tipo": "Cuidado Personal",
+        "precio": 5.5,
+        "stock": 100,
+        "id": "123"
+    },
+    "124": {
+        "nombre": "Gel Antibacterial",
+        "marca": "Sanitex",
+        "tipo": "Cuidado Personal",
+        "precio": 8.0,
+        "stock": 80,
+        "id": "124"
+    },
+    "125": {
+        "nombre": "Protector Solar",
+        "marca": "SunSafe",
+        "tipo": "Cuidado Personal",
+        "precio": 25.0,
+        "stock": 20,
+        "id": "125"
+    }
+}
