@@ -23,6 +23,7 @@ BUFFER_SIZE = 1024
 HEADER_FORMAT = "!IH"
 HEADER_SIZE = struct.calcsize(HEADER_FORMAT)
 
+
 # Nombre del archivo temporal donde se guardará el MP3
 OUTPUT_FILE = "cancion_recibida.mp3" 
 
